@@ -8,6 +8,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 
+/*Shows details of weather for the day.*/
+
 public class DetailActivity extends AppCompatActivity {
 
     @Override
